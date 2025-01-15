@@ -133,9 +133,7 @@ function Datajson() {
                         <td>{rec.price}</td>
                         <td>{rec.description}</td>
                         <td>
-                     {/* <button onClick={()=>handleEdit(index)}>Edit</button> 
-                     <button onClick={()=>handleDelete(index)}>Delete</button> */}
-
+                     
                      <button onClick={()=>handleEdit(rec.id)}>Edit</button> 
                      <button onClick={()=>handleDelete(rec.id)}>Delete</button>
               </td>
