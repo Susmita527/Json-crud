@@ -1,0 +1,93 @@
+[
+    {
+       
+            "id": 1,
+            "name": "3bhk flat",
+            "price": 1200,
+            "description": "A beautiful apartment in the HiTec City."
+  
+    },
+
+    {
+        
+            "id": 2,
+            "name": "1bhk",
+            "price": 120,
+            "description": "A small and safe society in the heart of HiTec City."
+    },
+    {
+        
+            "id": 3,
+            "name": "1rk",
+            "price": 199,
+            "description": "A beautiful apartment in the heart of New York City."
+            
+         
+    },
+    
+    
+    
+        {
+            
+                "id": 4,
+                "name": "2bhk flat",
+                "price": 150,
+                "description": "A spacious 2BHK in a prime location near Hi-Tec City."
+               
+            
+        },
+        {
+            
+                "id": 5,
+                "name": "3bhk villa",
+                "price": 730,
+                "description": "Luxury villa with modern amenities."
+               
+        },
+        {
+            
+                "id": 6,
+                "name": "Studio Apartment",
+                "price":600,
+                "description": "Compact and well-furnished studio apartment."
+                
+           
+        },
+        {
+            
+                "id": 7,
+                "name": "1bhk",
+                "price": 550,
+                "description": "Affordable 1BHK in a gated society."
+               
+           
+        },
+        {
+            
+                "id": 8,
+                "name": "3bhk flat",
+                "price": "$1,300/month",
+                "description": "Premium 3BHK with a city view."
+                
+            },
+     
+        {
+            
+                "id": 9,
+                "name": "2bhk flat",
+                "price": 800,
+                "description": "2BHK with proximity to IT hubs."
+               
+            },
+        
+        {
+            
+                "id": 10,
+                "name": "1rk",
+                "price": 50,
+                "description": "Simple and cozy 1RK in Hi-Tec City."
+                
+            }
+       
+        
+    ]
